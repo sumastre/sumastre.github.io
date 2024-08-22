@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sumastre.github.io/sitemap.html.gz
+Sitemap: https://sumastre.github.io/app/sitemap.html.gz
+Sitemap: https://sumastre.github.io/assets/sitemap.html.gz
+Sitemap: https://sumastre.github.io/css/sitemap.html.gz
+Sitemap: https://sumastre.github.io/includes/sitemap.html.gz
+Sitemap: https://sumastre.github.io/item/sitemap.html.gz
+Sitemap: https://sumastre.github.io/src/sitemap.html.gz
